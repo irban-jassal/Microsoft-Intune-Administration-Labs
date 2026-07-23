@@ -100,7 +100,7 @@ Configuration Profiles apply device settings after enrollment and allow administ
 
 ### Screenshot
 
-![Configuration Profile](configuration-profile.png)
+![Configuration Profile](configuration-profile-assignment.png)
 
 ---
 
