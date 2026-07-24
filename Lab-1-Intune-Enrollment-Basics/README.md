@@ -29,7 +29,7 @@ Configured Microsoft Intune Automatic Enrollment settings to allow selected user
 ### Configuration
 
 - MDM User Scope: **Some**
-- Assigned Group: **Intune-Pilot-Users**
+- Assigned Group: **IT**
 
 ### Purpose
 
