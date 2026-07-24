@@ -37,9 +37,9 @@ Compliance Policies evaluate whether devices meet an organization's security req
 
 ### Screenshots
 
-![Compliance Policy Properties](screenshots/compliance-policy-proprties1.png)
+![Compliance Policy Properties](/compliance-policy-proprties1.png)
 
-![Compliance Policy Configuration](screenshots/compliance-policy-properties2.png)
+![Compliance Policy Configuration](/compliance-policy-properties2.png)
 
 ---
 
@@ -115,7 +115,7 @@ No devices were available for evaluation because no Windows devices were enrolle
 
 ### Screenshot
 
-![Compliance Report](screenshots/compliance-report-no-devices.png)
+![Compliance Report](/compliance-report-no-devices.png)
 
 ---
 
@@ -145,7 +145,7 @@ Conditional Access uses the compliance status reported by Intune to determine wh
 
 ![Conditional Access Overview](screenshots/conditional-access-policy-overview.png)
 
-![Grant Control](screenshots/conditional-access-grant-control.png)
+![Grant Control](/conditional-access-grant-control.png)
 
 ---
 
