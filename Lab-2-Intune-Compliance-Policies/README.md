@@ -37,9 +37,9 @@ Compliance Policies evaluate whether devices meet an organization's security req
 
 ### Screenshots
 
-![Compliance Policy Properties](/compliance-policy-proprties1.png)
+![Compliance Policy Properties](compliance-policy-proprties1.png)
 
-![Compliance Policy Configuration](/compliance-policy-properties2.png)
+![Compliance Policy Configuration](compliance-policy-properties2.png)
 
 ---
 
