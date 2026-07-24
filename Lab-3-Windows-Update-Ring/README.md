@@ -123,7 +123,7 @@ A pilot group was selected to validate updates before expanding deployment to al
 
 ### Windows Update Ring Configuration
 
-![Update Ring Setup](Windows_Update_Ring_Setup.png)
+![Update Ring Setup](Windows_Update_Ring_Policy_Configuration.png)
 
 ### Policy Overview
 
