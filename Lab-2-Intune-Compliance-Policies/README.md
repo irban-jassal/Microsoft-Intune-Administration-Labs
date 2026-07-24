@@ -143,7 +143,7 @@ Conditional Access uses the compliance status reported by Intune to determine wh
 
 ### Screenshots
 
-![Conditional Access Overview](screenshots/conditional-access-policy-overview.png)
+![Conditional Access Overview](conditional-access-policy-overview.png)
 
 ![Grant Control](/conditional-access-grant-control.png)
 
