@@ -115,7 +115,7 @@ No devices were available for evaluation because no Windows devices were enrolle
 
 ### Screenshot
 
-![Compliance Report](/compliance-report-no-devices.png)
+![Compliance Report](compliance-report-no-devices.png)
 
 ---
 
@@ -145,7 +145,7 @@ Conditional Access uses the compliance status reported by Intune to determine wh
 
 ![Conditional Access Overview](conditional-access-policy-overview.png)
 
-![Grant Control](/conditional-access-grant-control.png)
+![Grant Control](conditional-access-grant-control.png)
 
 ---
 
