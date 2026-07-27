@@ -35,11 +35,11 @@ Configured Defender Antivirus policy settings including:
 
 ### Defender Antivirus Policy Overview
 
-![Defender Overview 1](Screenshots/Lab5_Defender_Antivirus_Policy_Overview_1.png)
+![Defender Overview 1](Lab5_Defender_Antivirus_Policy_Overview_1.png)
 
-![Defender Overview 2](Screenshots/Lab5_Defender_Antivirus_Policy_Overview_2.png)
+![Defender Overview 2](Lab5_Defender_Antivirus_Policy_Overview_2.png)
 
-![Defender Overview 3](Screenshots/Lab5_Defender_Antivirus_Policy_Overview_3.png)
+![Defender Overview 3](Lab5_Defender_Antivirus_Policy_Overview_3.png)
 
 ---
 
@@ -75,15 +75,15 @@ The policy was assigned to an Intune pilot group for validation.
 
 ### Windows Firewall Policy Overview
 
-![Firewall Overview](Screenshots/Lab5_Windows_Firewall_Policy_Overview.png)
+![Firewall Overview](Lab5_Windows_Firewall_Policy_Overview.png)
 
 ### Windows Firewall Settings
 
-![Firewall Settings 1](Screenshots/Lab5_Windows_Firewall_Policy_Settings_1.png)
+![Firewall Settings 1](Lab5_Windows_Firewall_Policy_Settings_1.png)
 
-![Firewall Settings 2](Screenshots/Lab5_Windows_Firewall_Policy_Settings_2.png)
+![Firewall Settings 2](Lab5_Windows_Firewall_Policy_Settings_2.png)
 
-![Firewall Settings 3](Screenshots/Lab5_Windows_Firewall_Policy_Settings_3.png)
+![Firewall Settings 3](Lab5_Windows_Firewall_Policy_Settings_3.png)
 
 ---
 
@@ -138,17 +138,17 @@ The policy was assigned to an Intune pilot group before production deployment.
 
 ### BitLocker Policy Overview
 
-![BitLocker Overview](Screenshots/Lab5_BitLocker_Policy_Overview.png)
+![BitLocker Overview](Lab5_BitLocker_Policy_Overview.png)
 
 ### BitLocker Settings
 
-![BitLocker Settings 1](Screenshots/Lab5_BitLocker_Policy_Settings_1.png)
+![BitLocker Settings 1](Lab5_BitLocker_Policy_Settings_1.png)
 
-![BitLocker Settings 2](Screenshots/Lab5_BitLocker_Policy_Settings_2.png)
+![BitLocker Settings 2](Lab5_BitLocker_Policy_Settings_2.png)
 
-![BitLocker Settings 3](Screenshots/Lab5_BitLocker_Policy_Settings_3.png)
+![BitLocker Settings 3](Lab5_BitLocker_Policy_Settings_3.png)
 
-![BitLocker Settings 4](Screenshots/Lab5_BitLocker_Policy_Settings_4.png)
+![BitLocker Settings 4](Lab5_BitLocker_Policy_Settings_4.png)
 
 ---
 
