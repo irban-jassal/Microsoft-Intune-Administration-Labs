@@ -84,7 +84,7 @@ Pilot groups allow administrators to test enrollment policies with a controlled 
 
 ## Enrollment Restriction Settings
 
-Lab6_Windows_Enrollment_1.png
+![Lab6 Windows Enrollment Settings](Lab6_Windows_Enrollment_1.png)
 
 Shows:
 
@@ -94,7 +94,7 @@ Shows:
 
 ## Assignment Configuration
 
-Lab6_Windows_Enrollment_2.png
+![Lab6 Windows Enrollment Settings](Lab6_Windows_Enrollment_2.png)
 
 Shows:
 
@@ -104,7 +104,7 @@ Shows:
 
 ## Review and Create
 
-Lab6_Windows_Enrollment_3.png
+![Lab6 Windows Enrollment Settings](Lab6_Windows_Enrollment_3.png)
 
 Shows:
 
