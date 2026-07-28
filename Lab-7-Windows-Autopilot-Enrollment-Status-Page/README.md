@@ -159,7 +159,7 @@ Configured:
 
 ## ESP Assignment
 
-![ESP Assignment](Lab7_ESP_Assignment.png)
+![ESP Assignment](Lab7_ESP_Assignments.png)
 
 Assigned to:
 
