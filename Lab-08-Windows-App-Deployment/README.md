@@ -1,54 +1,43 @@
- Lab 08 - Microsoft Store App (new) Deployment using Microsoft Intune
+# Lab 08 - Microsoft Store App (New) Deployment
 
-## Overview
+## Objective
 
-In this lab, I deployed a Microsoft Store application using Microsoft Intune.
-
-This lab demonstrates how administrators can deploy applications from the Microsoft Store to managed Windows devices without packaging a Win32 application.
-
----
-
-## Lab Objectives
-
-- Create a Microsoft Store application in Intune
-- Configure application information
-- Review application settings
-- Assign the application to a user group
-- Review and create the deployment
+The objective of this lab was to deploy a Microsoft Store application using Microsoft Intune. This lab demonstrates how administrators can deploy Microsoft Store applications to managed Windows devices without manually installing software on each device.
 
 ---
 
 ## Lab Environment
 
-| Component | Value |
-|----------|-------|
+| Component | Configuration |
+|------------|---------------|
 | Platform | Microsoft Intune Admin Center |
-| Identity | Microsoft Entra ID |
-| App Type | Microsoft Store app (new) |
+| Identity Service | Microsoft Entra ID |
+| Application Type | Microsoft Store app (new) |
+| Application | Adobe Acrobat Reader DC |
 | Assignment Group | Intune-Pilot-Users |
 
 ---
 
 # Configuration Steps
 
-## Step 1 - Select App Type
+## Step 1 - Create a New Application
 
-Navigation:
+Navigated to:
 
-
+```
 Microsoft Intune Admin Center
 → Apps
-→ All Apps
+→ All apps
 → Add
+```
 
+Selected the application type:
 
-Selected:
-
-
+```
 Microsoft Store app (new)
+```
 
-
-### Screenshot
+**Screenshot**
 
 ![Select App Type](Lab8_Select_App_Type.png)
 
@@ -56,79 +45,91 @@ Microsoft Store app (new)
 
 ## Step 2 - Configure Application Information
 
-Configured the application details including:
+Selected **Adobe Acrobat Reader DC** from the Microsoft Store and reviewed the application information.
+
+Configured:
 
 - Application Name
 - Publisher
 - Description
-- Version
-- Application Logo
+- Category
+- Logo
 
-### Screenshot
+**Screenshot**
 
 ![Application Information](Lab8_App_Information.png)
 
 ---
 
-## Step 3 - Review Application Overview
+## Step 3 - Assign the Application
 
-Verified the application configuration before proceeding with deployment.
-
-### Screenshot
-
-![Application Overview](Lab8_App_Overview.png)
-
----
-
-## Step 4 - Assign the Application
-
-Assigned the application to the following group:
-
-
-Intune-Pilot-Users
-
+Assigned the application to the **Intune-Pilot-Users** group.
 
 Assignment Type:
 
-
+```
 Required
+```
 
+This ensures the application is automatically installed on targeted devices.
 
-### Screenshot
+**Screenshot**
 
 ![Application Assignment](Lab8_App_Assignment.png)
 
 ---
 
-## Step 5 - Review and Create
+## Step 4 - Review and Create
 
-Reviewed all configuration settings and created the application deployment.
+Reviewed the deployment configuration before creating the application.
 
-### Screenshot
+Verified:
+
+- Application Information
+- Assignments
+- Deployment Settings
+
+Selected **Create** to complete the deployment.
+
+**Screenshot**
 
 ![Review and Create](Lab8_Review_Create.png)
+
+---
+
+# Deployment Overview
+
+After the application was successfully created, Microsoft Intune displayed the deployment overview.
+
+The Overview page provides administrators with deployment information including:
+
+- Application Name
+- Publisher
+- Operating System
+- Assignment Status
+- Device Installation Status
+- User Installation Status
+
+This page is used to monitor the deployment status after the application has been assigned.
+
+**Screenshot**
+
+![Application Overview](Lab8_App_Overview.png)
 
 ---
 
 # Skills Demonstrated
 
 - Microsoft Intune Application Management
-- Microsoft Store App Deployment
-- Application Assignment
+- Microsoft Store App (New) Deployment
 - Microsoft Entra ID Group Assignment
+- Application Deployment
+- Deployment Monitoring
 - Endpoint Management
 
 ---
 
-# Key Takeaways
+# Conclusion
 
-This lab provided hands-on experience deploying Microsoft Store applications using Microsoft Intune.
-
-Using Microsoft Store apps allows administrators to deploy supported applications directly from Microsoft Intune without creating Win32 packages.
-
----
-
-# Lab Status
-
-Completed
+This lab provided hands-on experience deploying a Microsoft Store application using Microsoft Intune. 
 
